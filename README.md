@@ -327,6 +327,7 @@ Components and native modules.
 * [react-native-viewpager ★1350](https://github.com/race604/react-native-viewpager) - ViewPager component for React Native
 * [react-virgin ★1319](https://github.com/Trixieapp/react-virgin) The react-native UI Kit you've been looking for.
 * [react-native-easy-grid ★1304](https://github.com/GeekyAnts/react-native-easy-grid) - Easy Responsive Grid Layout for React Native.
+* [react-native-gifted-charts](https://github.com/Abhinandan-Kushwaha/react-native-gifted-charts) - A performant, lightweight, powerful and fully fully customisable charting library in react native.
 * [victory-native ★1264](https://github.com/FormidableLabs/victory-native) - Victory-native is a collection of components to help you create charts, bar graphs etc.
 * [react-native-picker ★1238](https://github.com/beefe/react-native-picker) - react-native-picker
 * [react-native-collapsible ★1174](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
